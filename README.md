@@ -1,8 +1,9 @@
-## Hi there 👋 I'm Eric and I'm a Software Engineer.  
+## Hi there 👋 
+### I'm Eric and I'm a Software Engineer.
 ### Welcome to my GitHub!
 
 
-#### Take a look around and feel free to aske me any questions you have about the projects you see.  You can reach me at ericshuanders@gmail.com.
+#### Take a look around and feel free to aske me any questions you have about the projects you see.  You can reach me at  📫 ericshuanders@gmail.com.
 <!--
 **ericshuanders/ericshuanders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
