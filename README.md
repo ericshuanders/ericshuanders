@@ -3,7 +3,7 @@
 ### Welcome to my GitHub!
 
 
-#### Take a look around and feel free to aske me any questions you have about the projects you see.  You can reach me at  📫 ericshuanders@gmail.com.
+#### Take a look around and feel free to ask me any questions you have about the projects you see.  You can reach me at  📫 ericshuanders@gmail.com.
 
 #### 🔭 See some of my projects deployed over at www.ericandersondev.com
 <!--
